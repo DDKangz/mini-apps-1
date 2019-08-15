@@ -1,0 +1,21 @@
+{
+  "name": "challenge_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "react-dev": "webpack -d --watch",
+    "test": "echo \"Error: no test sp ecified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
